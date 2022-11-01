@@ -1,0 +1,9 @@
+com/mallika_747/khushisapp/MainActivity.java
+ com.mallika_747.khushisapp.MainActivity
+com/mallika_747/khushisapp/FirstFragment.java
+ com.mallika_747.khushisapp.FirstFragment
+com/mallika_747/khushisapp/SecondFragment.java
+ com.mallika_747.khushisapp.SecondFragment
+ com.mallika_747.khushisapp.SecondFragment$1
+com/mallika_747/khushisapp/BuildConfig.java
+ com.mallika_747.khushisapp.BuildConfig
